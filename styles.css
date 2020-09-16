@@ -3,8 +3,9 @@ img {
 }
 
 * { 
-font-family: arial;
-text-align: center;}
+	font-family: arial;
+	text-align: center;
+}
 
 .aligncenter {
     text-align: center;
@@ -12,31 +13,82 @@ text-align: center;}
 
 
 h1 {
-  text-align: center;
-  color: #F962A6;
-  font-size: 80px;
+	font-family: 'Cookie', cursive;
+	font-family: 'Tangerine', cursive;
+	text-align: center;
+	color: #F962A6;
+	font-size: 130px;
+	border-style: groove;
+	border-color: #7209B7;
+	margin: 20px;
 }
 
-
+.content-picwrap {
+	  background: #1a000a ;
+	 }
+	 
 h2 {
-color: #7209B7;
-font-size: 40px;}
+	color: #7209B7;
+	font-size: 50px;
+	text-shadow: 2px 2px 2px #aaa;
+}
 
 h3 {
   color: #F962A6;
-  font-size: 35px;}
+  font-size: 35px;
+ }
+  
+ .content-wrap {
+	background: #270329;
+	margin: 0 auto;
+	height: 500px;
+}
+  
+  span {
+  display: inline-block;
+  height: 400px;
+ }
+	  
+.education {
+	width: 300px;
+	height: 400px;
+}  
+
+ul {
+    list-style-type: none;
+}
+
+.projects {
+	width: 300px;
+	height: 400px;
+}
+
+.experience {
+	width: 300px;
+	height: 400px;
+	margin: auto;
+}
 
 h4, p {
   color: white;
-  font-size: 25px;}
+  font-size: 25px;
+ }
 
 a {
 	color: white;
-	font-size: 25px;}
+	font-size: 25px;
+}
 	
 a:hover {
-	color: #6881F3;}
+	color: #6881F3;
+}
 
 body {
-  background-color: black;}
+  background-color: black;
+ }
+  
+  .content-footwrap {
+	  background: #000d1a;
+	  padding: 20px 0;
+}
     
